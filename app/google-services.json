@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "837033733556",
+    "project_id": "blooddonationtext-79214",
+    "storage_bucket": "blooddonationtext-79214.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837033733556:android:c433dfd977cf2157cb96e1",
+        "android_client_info": {
+          "package_name": "com.dsteksoftwares.bda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837033733556-8aqo0761ejudotlfh95kgr44p6hnkt29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dsteksoftwares.bda",
+            "certificate_hash": "9363c920ac1c7b356904a08413afa5d0f4632b76"
+          }
+        },
+        {
+          "client_id": "837033733556-avkvr34afln7meftkdaan1koo16vg0ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0zclmd-J481XRB61jj1TNMuh1kmwqCGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837033733556-avkvr34afln7meftkdaan1koo16vg0ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
